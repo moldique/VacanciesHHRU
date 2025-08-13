@@ -28,5 +28,4 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-
 Программа будет работать в цикле, пока вы не захотите выйти из нее.
